@@ -39,9 +39,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/tricolore.jpg': 'center',
-							'images/CORSIDICUCINA.jpg': 'center',
-							'images/chefback.jpg': 'center'
+							'images/foodporn1.jpg': 'center',
+							'images/foodporn2.jpg': 'center',
+							'images/bottura.jpg': 'center'
 						},
 
 					// Delay.
